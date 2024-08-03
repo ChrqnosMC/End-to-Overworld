@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"End To Overworld datapack has been reloaded","bold":true,"color":"white"}]
